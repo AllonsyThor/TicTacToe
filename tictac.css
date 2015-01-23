@@ -1,0 +1,73 @@
+body {
+	background-image: url("finding-nemo-background.jpg");
+	background-size: 100%;
+}
+
+#container {
+	position: relative;
+	background:#2595FF;
+	width: 900px;
+	height: 900px;	
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#title {
+	position: relative;
+	text-align: center;
+	color: #1B18FF;
+	font-family: "Verdana";
+	font-style: oblique;
+	border-style: outset;
+	border-color: #06FFC3;
+	border-width: 5px;
+}
+#box1 {
+	width: 290px;
+	height: 300px;
+	border-right: 7px groove #07B4FF;
+	border-bottom: 5px groove #07B4FF;
+}
+#box2 {
+	width: 290px;
+	height:300px;
+	border-right: 7px groove #07B4FF;
+	border-bottom: 5px groove #07B4FF;
+}
+#box3 {
+	width: 290px;
+	height:300px;
+	border-bottom: 5px groove #07B4FF;
+}
+#box4 {
+	width: 290px;
+	height:300px;
+	border-bottom: 5px groove #07B4FF;
+	border-right: 7px groove #07B4FF;
+}
+#box5 {
+	width: 290px;
+	height:300px;
+	border-bottom: 5px groove #07B4FF;
+	border-right: 7px groove #07B4FF;
+}
+#box6 {
+	width: 290px;
+	height:300px;
+	border-bottom: 5px groove #07B4FF;
+}
+#box7 {
+	width: 290px;
+	height:300px;
+	border-right: 7px groove #07B4FF;
+}
+#box8 {
+	width: 290px;
+	height:300px;
+	border-right: 7px groove #07B4FF;
+}
+#box9 {
+	width: 290px;
+	height:300px;
+	
+}
