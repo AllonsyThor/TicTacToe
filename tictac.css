@@ -38,6 +38,14 @@ body {
 .bottomRow {
 	border-bottom: 0;	
 }
+img {
+	width: 100%;
+	height: 100%;
+}
+
+.locked{
+	pointer-events: none;
+}
 
 #box1 {
 
